@@ -1,0 +1,2 @@
+"""Chess Coach backend package."""
+

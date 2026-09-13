@@ -1,0 +1,15 @@
+node_modules/
+dist/
+.vite/
+.env
+.venv/
+__pycache__/
+.pytest_cache/
+*.pyc
+*.db
+*.db-journal
+*.db-wal
+*.db-shm
+.sites-runtime/
+postgres-data/
+

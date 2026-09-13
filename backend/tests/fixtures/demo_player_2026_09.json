@@ -1,0 +1,136 @@
+{
+  "synthetic": true,
+  "expected_count": 13,
+  "games": [
+    {
+      "uuid": "demo-g01",
+      "url": "https://example.invalid/chess/game/01",
+      "rated": true,
+      "rules": "chess",
+      "time_class": "rapid",
+      "time_control": "600",
+      "end_time": 1704067200,
+      "pgn": "[Event \"Synthetic Fixture\"]\n[Site \"example.invalid\"]\n[UTCDate \"2024.01.01\"]\n[UTCTime \"00:00:00\"]\n[White \"Demo_Player\"]\n[Black \"Opponent01\"]\n[WhiteElo \"607\"]\n[BlackElo \"625\"]\n[Result \"1-0\"]\n[TimeControl \"600\"]\n\n1. e4 e5 2. Nf3 Nc6 1-0"
+    },
+    {
+      "uuid": "demo-g02",
+      "url": "https://example.invalid/chess/game/02",
+      "rated": true,
+      "rules": "chess",
+      "time_class": "rapid",
+      "time_control": "600",
+      "end_time": 1704070800,
+      "pgn": "[Event \"Synthetic Fixture\"]\n[Site \"example.invalid\"]\n[UTCDate \"2024.01.01\"]\n[UTCTime \"01:00:00\"]\n[White \"Opponent02\"]\n[Black \"Demo_Player\"]\n[WhiteElo \"614\"]\n[BlackElo \"630\"]\n[Result \"0-1\"]\n[TimeControl \"600\"]\n\n1. d4 d5 2. c4 e6 0-1"
+    },
+    {
+      "uuid": "demo-g03",
+      "url": "https://example.invalid/chess/game/03",
+      "rated": true,
+      "rules": "chess",
+      "time_class": "rapid",
+      "time_control": "600",
+      "end_time": 1704074400,
+      "pgn": "[Event \"Synthetic Fixture\"]\n[Site \"example.invalid\"]\n[UTCDate \"2024.01.01\"]\n[UTCTime \"02:00:00\"]\n[White \"Demo_Player\"]\n[Black \"Opponent03\"]\n[WhiteElo \"621\"]\n[BlackElo \"635\"]\n[Result \"1/2-1/2\"]\n[TimeControl \"600\"]\n\n1. c4 e5 2. Nc3 Nf6 1/2-1/2"
+    },
+    {
+      "uuid": "demo-g04",
+      "url": "https://example.invalid/chess/game/04",
+      "rated": true,
+      "rules": "chess",
+      "time_class": "rapid",
+      "time_control": "600",
+      "end_time": 1704078000,
+      "pgn": "[Event \"Synthetic Fixture\"]\n[Site \"example.invalid\"]\n[UTCDate \"2024.01.01\"]\n[UTCTime \"03:00:00\"]\n[White \"Opponent04\"]\n[Black \"Demo_Player\"]\n[WhiteElo \"628\"]\n[BlackElo \"640\"]\n[Result \"1-0\"]\n[TimeControl \"600\"]\n\n1. Nf3 d5 2. g3 c5 1-0"
+    },
+    {
+      "uuid": "demo-g05",
+      "url": "https://example.invalid/chess/game/05",
+      "rated": true,
+      "rules": "chess",
+      "time_class": "rapid",
+      "time_control": "600",
+      "end_time": 1704081600,
+      "pgn": "[Event \"Synthetic Fixture\"]\n[Site \"example.invalid\"]\n[UTCDate \"2024.01.01\"]\n[UTCTime \"04:00:00\"]\n[White \"Demo_Player\"]\n[Black \"Opponent05\"]\n[WhiteElo \"635\"]\n[BlackElo \"645\"]\n[Result \"0-1\"]\n[TimeControl \"600\"]\n\n1. e4 e5 2. Nf3 Nc6 0-1"
+    },
+    {
+      "uuid": "demo-g06",
+      "url": "https://example.invalid/chess/game/06",
+      "rated": true,
+      "rules": "chess",
+      "time_class": "rapid",
+      "time_control": "600",
+      "end_time": 1704085200,
+      "pgn": "[Event \"Synthetic Fixture\"]\n[Site \"example.invalid\"]\n[UTCDate \"2024.01.01\"]\n[UTCTime \"05:00:00\"]\n[White \"Opponent06\"]\n[Black \"Demo_Player\"]\n[WhiteElo \"642\"]\n[BlackElo \"650\"]\n[Result \"1/2-1/2\"]\n[TimeControl \"600\"]\n\n1. d4 d5 2. c4 e6 1/2-1/2"
+    },
+    {
+      "uuid": "demo-g07",
+      "url": "https://example.invalid/chess/game/07",
+      "rated": true,
+      "rules": "chess",
+      "time_class": "rapid",
+      "time_control": "600",
+      "end_time": 1704088800,
+      "pgn": "[Event \"Synthetic Fixture\"]\n[Site \"example.invalid\"]\n[UTCDate \"2024.01.01\"]\n[UTCTime \"06:00:00\"]\n[White \"Demo_Player\"]\n[Black \"Opponent07\"]\n[WhiteElo \"649\"]\n[BlackElo \"655\"]\n[Result \"1-0\"]\n[TimeControl \"600\"]\n\n1. c4 e5 2. Nc3 Nf6 1-0"
+    },
+    {
+      "uuid": "demo-g08",
+      "url": "https://example.invalid/chess/game/08",
+      "rated": true,
+      "rules": "chess",
+      "time_class": "rapid",
+      "time_control": "600",
+      "end_time": 1704092400,
+      "pgn": "[Event \"Synthetic Fixture\"]\n[Site \"example.invalid\"]\n[UTCDate \"2024.01.01\"]\n[UTCTime \"07:00:00\"]\n[White \"Opponent08\"]\n[Black \"Demo_Player\"]\n[WhiteElo \"656\"]\n[BlackElo \"660\"]\n[Result \"0-1\"]\n[TimeControl \"600\"]\n\n1. Nf3 d5 2. g3 c5 0-1"
+    },
+    {
+      "uuid": "demo-g09",
+      "url": "https://example.invalid/chess/game/09",
+      "rated": true,
+      "rules": "chess",
+      "time_class": "rapid",
+      "time_control": "600",
+      "end_time": 1704096000,
+      "pgn": "[Event \"Synthetic Fixture\"]\n[Site \"example.invalid\"]\n[UTCDate \"2024.01.01\"]\n[UTCTime \"08:00:00\"]\n[White \"Demo_Player\"]\n[Black \"Opponent09\"]\n[WhiteElo \"663\"]\n[BlackElo \"665\"]\n[Result \"1/2-1/2\"]\n[TimeControl \"600\"]\n\n1. e4 e5 2. Nf3 Nc6 1/2-1/2"
+    },
+    {
+      "uuid": "demo-g10",
+      "url": "https://example.invalid/chess/game/10",
+      "rated": true,
+      "rules": "chess",
+      "time_class": "rapid",
+      "time_control": "600",
+      "end_time": 1704099600,
+      "pgn": "[Event \"Synthetic Fixture\"]\n[Site \"example.invalid\"]\n[UTCDate \"2024.01.01\"]\n[UTCTime \"09:00:00\"]\n[White \"Opponent10\"]\n[Black \"Demo_Player\"]\n[WhiteElo \"670\"]\n[BlackElo \"670\"]\n[Result \"1-0\"]\n[TimeControl \"600\"]\n\n1. d4 d5 2. c4 e6 1-0"
+    },
+    {
+      "uuid": "demo-g11",
+      "url": "https://example.invalid/chess/game/11",
+      "rated": true,
+      "rules": "chess",
+      "time_class": "rapid",
+      "time_control": "600",
+      "end_time": 1704103200,
+      "pgn": "[Event \"Synthetic Fixture\"]\n[Site \"example.invalid\"]\n[UTCDate \"2024.01.01\"]\n[UTCTime \"10:00:00\"]\n[White \"Demo_Player\"]\n[Black \"Opponent11\"]\n[WhiteElo \"677\"]\n[BlackElo \"675\"]\n[Result \"0-1\"]\n[TimeControl \"600\"]\n\n1. c4 e5 2. Nc3 Nf6 0-1"
+    },
+    {
+      "uuid": "demo-g12",
+      "url": "https://example.invalid/chess/game/12",
+      "rated": true,
+      "rules": "chess",
+      "time_class": "rapid",
+      "time_control": "600",
+      "end_time": 1704106800,
+      "pgn": "[Event \"Synthetic Fixture\"]\n[Site \"example.invalid\"]\n[UTCDate \"2024.01.01\"]\n[UTCTime \"11:00:00\"]\n[White \"Opponent12\"]\n[Black \"Demo_Player\"]\n[WhiteElo \"684\"]\n[BlackElo \"680\"]\n[Result \"1/2-1/2\"]\n[TimeControl \"600\"]\n\n1. Nf3 d5 2. g3 c5 1/2-1/2"
+    },
+    {
+      "uuid": "demo-g13",
+      "url": "https://example.invalid/chess/game/13",
+      "rated": true,
+      "rules": "chess",
+      "time_class": "rapid",
+      "time_control": "600",
+      "end_time": 1704110400,
+      "pgn": "[Event \"Synthetic Fixture\"]\n[Site \"example.invalid\"]\n[UTCDate \"2024.01.01\"]\n[UTCTime \"12:00:00\"]\n[White \"Demo_Player\"]\n[Black \"Opponent13\"]\n[WhiteElo \"691\"]\n[BlackElo \"685\"]\n[Result \"1-0\"]\n[TimeControl \"600\"]\n\n1. e4 e5 2. Nf3 Nc6 1-0"
+    }
+  ]
+}
